@@ -1,1 +1,2 @@
-web: shopee.php --log-file -
+worker: php shopee.php
+
